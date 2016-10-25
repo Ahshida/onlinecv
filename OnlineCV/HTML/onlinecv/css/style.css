@@ -2,7 +2,6 @@
 Template Name: Online CV
 Description: HTML5 / CSS3 One Page
 Version: 1.0
-Author: themehippo.com
 */
 
 /*------------------------------------------------------------------
@@ -274,14 +273,6 @@ button:focus,
     top        : 0;
     right      : 0;
     bottom     : 0;
-    background : linear-gradient(
-            -30deg,
-            rgba(42, 84, 245, 0.5) 0%,
-            rgba(42, 84, 245, 0.5) 40%,
-            transparent 60%,
-            transparent 100%
-    );
-
     }
 
 .header .content {
